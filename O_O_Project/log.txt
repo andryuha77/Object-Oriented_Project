@@ -1,0 +1,4 @@
+Log: Client connected from 127.0.0.1 at Mon Jan 09 02:16:41 GMT 2017
+Log: Client connected from 127.0.0.1 at Mon Jan 09 02:16:42 GMT 2017
+Log: File listing requested from 127.0.0.1 at Mon Jan 09 02:16:46 GMT 2017
+Log: Disconnected from client 127.0.0.1 at Mon Jan 09 02:17:43 GMT 2017
